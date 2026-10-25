@@ -1,5 +1,16 @@
 # iFLYTEK RK3588 AIUI
 
+![](./images/43228652501800.png)
+
+![](./images/43238721395300.png)
+
+
+## 相关链接
+
+* 岚正3588-大板: <https://www.yuque.com/aiui/zzoolv/emarq8x7by7kelbo>
+* 产品3D效果图(文件格式修改为step): <https://www.yuque.com/aiui/zzoolv/rk1om4sabc6hzzcq>
+* AIUI文档中心: <https://aiui-doc.xf-yun.com/project-1/doc-361/>
+
 
 ## 目录
 
